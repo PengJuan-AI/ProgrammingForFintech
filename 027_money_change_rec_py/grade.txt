@@ -1,0 +1,21 @@
+Grading at 09/14/2022:20:36:03.600436
+For commit ID ae191ac376ffc3c1d98d5a77deb0e4177e836703
+Grading at Wed Sep 14 04:36:03 PM EDT 2022
+...
+----------------------------------------------------------------------
+Ran 3 tests in 0.007s
+
+OK
+Grading at Wed Sep 14 16:36:03  2022
+SCORE: 90.0
+Found doc string:
+
+    de is denominations for changes ordered ascending
+    computation() is the function where recursion is happening to calculate numbers
+    
+Found doc string:
+
+    Print change and the number of it.
+    
+
+Overall Grade: PASSED

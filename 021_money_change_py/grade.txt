@@ -1,0 +1,21 @@
+Grading at 09/13/2022:02:37:15.946787
+For commit ID 17fba766b714db8ab38e3cc69ed3c13fe616e06a
+Grading at Mon Sep 12 10:37:15 PM EDT 2022
+...
+----------------------------------------------------------------------
+Ran 3 tests in 0.001s
+
+OK
+Grading at Mon Sep 12 22:37:15  2022
+SCORE: 90.0
+Found doc string:
+
+    de1 is all changes for integer part while de2 is for decimal part
+    for each part, you can call computation to calculate the smallest amount for each change
+    
+Found doc string:
+
+    Print change and the number of it.
+    
+
+Overall Grade: PASSED

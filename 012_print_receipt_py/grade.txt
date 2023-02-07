@@ -1,0 +1,57 @@
+Grading at 09/05/2022:20:37:58.585279
+For commit ID 835cca33c2606c9c84f63e8b405990650d8f44d9
+Grading at Mon Sep  5 04:37:58 PM EDT 2022
+.....
+----------------------------------------------------------------------
+Ran 5 tests in 0.001s
+
+OK
+Grading at Mon Sep 05 16:37:58  2022
+=====
+
+Subtotal: $     25.31
+     Tax: $      1.52
+     Tip: $      5.57
+           ==========
+   Total: $     32.40
+-----
+Subtotal: $     25.31
+     Tax: $      1.52
+     Tip: $      5.57
+           ==========
+   Total: $     32.40
+=====
+Found doc string:
+
+    This function is used to print a certain format of receipt.
+    
+=====
+
+Subtotal: $     10.00
+     Tax: $      0.50
+     Tip: $      2.00
+           ==========
+   Total: $     12.50
+-----
+Subtotal: $     10.00
+     Tax: $      0.50
+     Tip: $      2.00
+           ==========
+   Total: $     12.50
+=====
+=====
+
+Subtotal: $      0.00
+     Tax: $      0.00
+     Tip: $      0.00
+           ==========
+   Total: $      0.00
+-----
+Subtotal: $      0.00
+     Tax: $      0.00
+     Tip: $      0.00
+           ==========
+   Total: $      0.00
+=====
+
+Overall Grade: PASSED

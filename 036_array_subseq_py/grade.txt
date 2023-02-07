@@ -1,0 +1,14 @@
+Grading at 09/22/2022:18:04:48.696026
+For commit ID 97682d6ba3c37b21ed87900ee68c6f1907e4f2af
+Grading at Thu Sep 22 02:04:48 PM EDT 2022
+..........
+----------------------------------------------------------------------
+Ran 10 tests in 0.001s
+
+OK
+Grading at Thu Sep 22 14:04:48  2022
+Found test case: test_TypeError(self)
+Found test case: test_1(self)
+Found test case: test_empty(self)
+
+Overall Grade: PASSED

@@ -1,0 +1,4 @@
+M-x revert-buffer-with-coding-system
+raw-text
+
+M-x hexl-mode

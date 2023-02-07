@@ -1,0 +1,120 @@
+Grading at 12/03/2022:21:45:10.535214
+For commit ID 7a839bbb4f0d455987498cef8064961513c1c9f9
+Grading at Sat Dec  3 04:45:03 PM EST 2022
+**Testing broken implementation 1.dbg **
+-------------------------------------
+
+Test func1
+Now its maxnum is 18
+
+**Testing broken implementation 1 **
+-------------------------------------
+
+Test func1
+Now its maxnum is 18
+
+**Testing broken implementation 2.dbg **
+-------------------------------------
+
+Test func1
+Now its maxnum is 18
+
+**Testing broken implementation 2 **
+-------------------------------------
+
+Test func1
+Now its maxnum is 18
+
+**Testing broken implementation 3.dbg **
+-------------------------------------
+
+Test func1
+Now its maxnum is 18
+
+**Testing broken implementation 3 **
+-------------------------------------
+
+Test func1
+Now its maxnum is 18
+
+**Testing broken implementation 4.dbg **
+-------------------------------------
+
+Test func1
+Now its maxnum is 18
+
+**Testing broken implementation 4 **
+-------------------------------------
+
+Test func1
+Now its maxnum is 18
+
+**Testing broken implementation 5.dbg **
+-------------------------------------
+
+Test func1
+Now its maxnum is 18
+expected answer is 52359 and the result is 52359
+Now its maxnum is 16
+expected answer is 52357 and the result is 52358
+
+**Testing broken implementation 5 **
+-------------------------------------
+
+Test func1
+Now its maxnum is 18
+expected answer is 52359 and the result is 52359
+Now its maxnum is 16
+expected answer is 52357 and the result is 52358
+
+**Testing broken implementation 6.dbg **
+-------------------------------------
+
+Test func1
+Now its maxnum is 18
+expected answer is 52359 and the result is 52359
+Now its maxnum is 16
+expected answer is 52357 and the result is 52357
+Now its maxnum is 2
+expected answer is 52359 and the result is 4
+
+**Testing broken implementation 6 **
+-------------------------------------
+
+Test func1
+Now its maxnum is 18
+expected answer is 52359 and the result is 52359
+Now its maxnum is 16
+expected answer is 52357 and the result is 52357
+Now its maxnum is 2
+expected answer is 52359 and the result is 4
+
+**Testing broken implementation 7.dbg **
+-------------------------------------
+
+Test func1
+Now its maxnum is 18
+
+**Testing broken implementation 7 **
+-------------------------------------
+
+Test func1
+Now its maxnum is 18
+
+**Testing broken implementation 8.dbg **
+-------------------------------------
+
+Test func1
+Now its maxnum is 18
+expected answer is 52359 and the result is -256
+
+**Testing broken implementation 8 **
+-------------------------------------
+
+Test func1
+Now its maxnum is 18
+expected answer is 52359 and the result is -256
+
+Your tests identified the problems with all broken programs
+
+Overall Grade: PASSED

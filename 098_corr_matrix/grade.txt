@@ -1,0 +1,59 @@
+Grading at 11/16/2022:02:56:37.793693
+For commit ID cc0d1c531f6030f5642325e9162986c570277a01
+Grading at Tue Nov 15 09:56:25 PM EST 2022
+rm -f *.o  *~ correl_matrix
+g++    -c -o main.o main.cpp
+g++    -c -o asset.o asset.cpp
+g++ -o correl_matrix --std=gnu++98 -pedantic -Wall -Werror -ggdb3 main.o asset.o
++-----------------------------------------------------------------------+
+Test case 1
+Usage: ./correlation samplefile
+Your program successfully indicated a failure case
+                                                         [5/5]
++-----------------------------------------------------------------------+
+Test case 2
+Usage: ./correlation samplefile
+Your program successfully indicated a failure case
+                                                         [5/5]
++-----------------------------------------------------------------------+
+Test case 3
+Filename is invalid.
+Your program successfully indicated a failure case
+                                                         [5/5]
++-----------------------------------------------------------------------+
+Test case 4
+There is invalid price.
+Your program successfully indicated a failure case
+                                                         [5/5]
++-----------------------------------------------------------------------+
+Test case 5
+The first price is valid.
+Your program successfully indicated a failure case
+                                                         [5/5]
++-----------------------------------------------------------------------+
+Test case 6
+Your file matched the expected output
+                                                         [11/11]
++-----------------------------------------------------------------------+
+Test case 7
+Your file matched the expected output
+                                                         [11/11]
++-----------------------------------------------------------------------+
+Test case 8
+Your file matched the expected output
+                                                         [11/11]
++-----------------------------------------------------------------------+
+Test case 9
+Your file matched the expected output
+                                                         [11/11]
++-----------------------------------------------------------------------+
+Test case 10
+Your file matched the expected output
+                                                         [11/11]
++-----------------------------------------------------------------------+
+Test case 11
+Your file matched the expected output
+                                                         [10/10]
++-----------------------------------------------------------------------+
+
+Overall Grade: 100

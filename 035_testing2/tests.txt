@@ -1,0 +1,30 @@
+
+ababa babab
+aabbb bbbaa
+aabbb ababb
+baabb abbcc
+baaab aaabb
+abccc acbcc
+acccb accbc
+cccab cacbc
+abbbb bbbba
+aaaab abaaa
+aaaaA bbbbb
+abcde abcdea
+bbcca bbacc
+abcde edcba
+abcba abcba
+aabbc cbbaa
+aabbc ababc
+aabbc abcab
+abcda aabcd
+abcda bcdaa
+aabcb aabbc
+AABBB aabbb
+a b
+aaaaa
+a b c
+aaaaaa bbbbb
+abcde bbbb
+"aaa" "bbb"
+😄 😄

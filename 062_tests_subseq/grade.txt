@@ -1,0 +1,65 @@
+Grading at 10/19/2022:17:37:00.189138
+For commit ID ace0dc582d3dee52e2c66d1c8791ba9c84569409
+Grading at Wed Oct 19 01:36:59 PM EDT 2022
+**Testing broken implementation 10 **
+-------------------------------------
+
+Array 9: Should be 7 but was 6
+
+**Testing broken implementation 11 **
+-------------------------------------
+
+Array 2: Should be 4 but was 5
+
+**Testing broken implementation 1 **
+-------------------------------------
+
+Array 4: Should be 1 but was 2
+
+**Testing broken implementation 2 **
+-------------------------------------
+
+Array 2: Should be 4 but was 2
+
+**Testing broken implementation 3 **
+-------------------------------------
+
+Array 7: Should be 1 but was 2
+
+**Testing broken implementation 4 **
+-------------------------------------
+
+Array 3: Should be 0 but was 1
+
+**Testing broken implementation 5 **
+-------------------------------------
+
+Array 2: Should be 4 but was 11
+
+**Testing broken implementation 6 **
+-------------------------------------
+
+Array 4: Should be 1 but was 0
+
+**Testing broken implementation 7 **
+-------------------------------------
+
+Array 1: Should be 5 but was 3
+
+**Testing broken implementation 8 **
+-------------------------------------
+
+Array 1: Should be 5 but was 1
+
+**Testing broken implementation 9 **
+-------------------------------------
+
+Array 2: Should be 4 but was 2
+
+**Testing correct implementation **
+-------------------------------------
+
+
+All test programs were handled correctly
+
+Overall Grade: PASSED
